@@ -1,4 +1,4 @@
-package day_17_ternary_nested_conditions;
+package day17_ternary_nested_conditions;
 
 public class MoreTernary {
         public static void main(String[] args) {

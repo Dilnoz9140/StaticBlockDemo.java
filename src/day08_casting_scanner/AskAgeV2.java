@@ -1,4 +1,4 @@
-package day_08_casting_scanner;
+package day08_casting_scanner;
 import java.util.Scanner;
 
 public class AskAgeV2 {

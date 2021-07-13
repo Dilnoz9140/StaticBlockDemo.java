@@ -1,4 +1,4 @@
-package day_09;
+package day09;
 
 public class CentsToDollars {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package day_09;
+package day09;
 
 public class SpeedCheckV1 {
     public static void main(String[] args) {

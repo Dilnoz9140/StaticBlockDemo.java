@@ -1,4 +1,4 @@
-package day_11_comprison_operators;
+package day11_comprison_operators;
 
 public class PrePostIncrementDecrement {
         public static void main(String[] args) {

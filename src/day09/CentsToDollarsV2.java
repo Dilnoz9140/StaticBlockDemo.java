@@ -1,4 +1,4 @@
-package day_09;
+package day09;
 import java.util.Scanner;
 
 public class CentsToDollarsV2 {
