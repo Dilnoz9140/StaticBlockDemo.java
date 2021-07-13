@@ -1,0 +1,26 @@
+package Practice_03_30_2021;
+import java.util.Scanner;
+public class maxNumber {
+    public static void main(String[] args) {
+        Scanner input = new Scanner(System.in);
+        System.out.println("Enter A number");
+        int first = input.nextInt();
+        int max = first; // 132
+        int min = first;
+
+        for(int i=0; i < 4; i++ ) {
+            System.out.println("Enter A number");
+            int number = input.nextInt();
+
+            if(number > max) {
+                max = number;
+            }
+            if(number < min) {
+                min = number;
+            }
+
+        }
+        System.out.println("max: " + max);
+        System.out.println("min: " + min);
+    }
+}
