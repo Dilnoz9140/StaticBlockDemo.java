@@ -1,4 +1,4 @@
-package day09;
+package day09_scanner_practice;
 import java.util.Scanner;// imprort scanner class
 
 public class AddNumbers {

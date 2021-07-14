@@ -1,4 +1,4 @@
-package day09;
+package day09_scanner_practice;
 
 public class SpeedCheckV1 {
     public static void main(String[] args) {
